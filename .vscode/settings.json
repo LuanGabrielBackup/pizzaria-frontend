@@ -1,0 +1,11 @@
+{
+    "workbench.editor.customLabels.enabled": true,
+    "workbench.editor.closeOnFileDelete": true,
+    "window.density.editorTabHeight": "default",
+    "workbench.editor.wrapTabs": false,
+    "workbench.editor.titleScrollbarSizing": "default",
+    "workbench.editor.tabSizing": "fit",
+    "workbench.editor.splitSizing": "auto",
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.editor.showIcons": false
+}
